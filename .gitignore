@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Direnv files and folders
+.direnv/
+.envrc.local
+requirements.txt
