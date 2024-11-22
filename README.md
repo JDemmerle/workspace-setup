@@ -13,6 +13,8 @@ clamav clamav-freshclam clamav-daemon
 postfix
 vlc
 sublime
+opentofu
+tmate
 
 apt purge --remove pulseaudio-module-bluetooth
 apt install libspa-0.2-bluetooth
