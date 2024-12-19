@@ -15,6 +15,8 @@ vlc
 sublime
 opentofu
 tmate
+yq
+jq
 
 apt purge --remove pulseaudio-module-bluetooth
 apt install libspa-0.2-bluetooth
